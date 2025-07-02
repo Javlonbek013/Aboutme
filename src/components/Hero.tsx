@@ -73,7 +73,7 @@ const Hero = () => {
             <div className="relative">
               <div className="w-80 h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden shadow-2xl border-8 border-white">
                 <img
-                  src="/src/assets/photo_2024-07-30_17-37-03.jpg"
+                  src="/src/assets/photo_2024-07-30_17-37-03.png"
                   alt="Javlonbek O'ktamov"
                   className="w-full h-full object-cover"
                 />
